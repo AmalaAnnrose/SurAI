@@ -1,6 +1,0 @@
-startSurveyIntent begin
-startSurveyIntent start
-startSurveyIntent Let us do the survey now
-
-helpIntent what should I say?
-helpIntent help
