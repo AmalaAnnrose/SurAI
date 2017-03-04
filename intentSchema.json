@@ -1,0 +1,33 @@
+{
+	"intents": 
+	[	
+	  	{
+			"intent": "response1",
+			"slots": []
+		}, 
+	  	{
+			"intent": "response2",
+			"slots": []
+		}, 
+	  	{
+			"intent": "response3",
+			"slots": []
+		},  
+	  	{
+			"intent": "response4",
+			"slots": []
+		},  
+	  	{
+			"intent": "response5",
+			"slots": []
+		}, 
+      {
+			"intent": "response6",
+			"slots": []
+		}, 
+      {
+			"intent": "response7",
+			"slots": []
+		}, 
+	]
+}
