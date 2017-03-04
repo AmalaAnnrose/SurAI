@@ -78,9 +78,9 @@ skillService.intent('loadTakeSurveyIntent', {
     });
 
 skillService.intent("takeSurveyIntent", {
-    "slots" : {
-        "STEPVALUE" : "STEPVALUES"
-    },
+ //   "slots" : {
+//        "STEPVALUE" : "STEPVALUES"
+//    },
     "utterances" : ["{take|start|begin} {|a|the} survey", "{-|STEPVALUE}"]
     },
     function (request, response) {
