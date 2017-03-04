@@ -1,11 +1,11 @@
 {
 	"intents": 
 	[	
-	  	{
+        {
 			"intent": "response1",
 			"slots": []
 		}, 
-	  	{
+		{
 			"intent": "response2",
 			"slots": []
 		}, 
