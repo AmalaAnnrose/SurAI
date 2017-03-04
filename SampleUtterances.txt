@@ -5,7 +5,8 @@ startSurveyIntent try it now
 startSurveyIntent Say the questions
 
 helpIntent what should I say
-helpIntent help
-helpIntent what is your aim
-helpIntent what is your goal
-helpIntent what do you do
+helpIntent what do you mean
+helpIntent what are you asking
+helpIntent pardon
+helpIntent what do you refer to
+helpIntent do you mean
