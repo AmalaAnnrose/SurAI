@@ -1,33 +1,33 @@
 {
-	"intents": 
-	[	
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "loadTakeSurveyIntent",
+      "slots": []
+    },
+    {
+      "intent": "takeSurveyIntent",
+      "slots": [
         {
-			"intent": "response1",
-			"slots": []
-		}, 
-		{
-			"intent": "response2",
-			"slots": []
-		}, 
-	  	{
-			"intent": "response3",
-			"slots": []
-		},  
-	  	{
-			"intent": "response4",
-			"slots": []
-		},  
-	  	{
-			"intent": "response5",
-			"slots": []
-		}, 
-      		{
-			"intent": "response6",
-			"slots": []
-		}, 
-      		{
-			"intent": "response7",
-			"slots": []
-		}
-	]
+          "name": "STEPVALUE",
+          "type": "STEPVALUES"
+        }
+      ]
+    },
+    {
+      "intent": "saveTakeSurveyIntent",
+      "slots": []
+    }
+  ]
 }
