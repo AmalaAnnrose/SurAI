@@ -21,11 +21,11 @@
 			"intent": "response5",
 			"slots": []
 		}, 
-      {
+      		{
 			"intent": "response6",
 			"slots": []
 		}, 
-      {
+      		{
 			"intent": "response7",
 			"slots": []
 		}, 
