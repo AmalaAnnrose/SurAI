@@ -1,0 +1,12 @@
+{
+    "name" : "takeSurveyBuilder",
+    "version" : "1.0.0",
+    "description" : "take a survey",
+    "main" : "index.js",
+    "author" : "The boys",
+    "license" : "ISC",
+    "dependencies" : {
+        "alexa-app": "^2.3.2",
+        "lodash": "^4.3.0"
+    }
+}
