@@ -6,7 +6,9 @@ startSurveyIntent Say the questions
 
 helpIntent what should I say
 helpIntent what do you mean
-helpIntent what are you asking
+helpIntent what are you asking about
 helpIntent pardon
 helpIntent what do you refer to
 helpIntent do you mean
+helpIntent say again
+helpIntent repeat again
