@@ -4,8 +4,8 @@ startSurveyIntent let us do the survey now
 startSurveyIntent try it now
 startSurveyIntent Say the questions
 
-helpIntent what should I say?
+helpIntent what should I say
 helpIntent help
 helpIntent what is your aim
 helpIntent what is your goal
-helpIntent what do you do?
+helpIntent what do you do
