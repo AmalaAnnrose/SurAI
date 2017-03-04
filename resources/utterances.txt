@@ -1,0 +1,7 @@
+takeSurveyIntent    take survey
+takeSurveyIntent    take a survey
+takeSurveyIntent    take the survey
+takeSurveyIntent    start the survey
+takeSurveyIntent    start survey
+takeSurveyIntent    begin survey
+takeSurveyIntent    begin the survey
