@@ -12,7 +12,7 @@ skillService.pre = function(request, response, type) {
 };
 var getTakeSurveyHelper = function(request) {
     var takeSurveyHelperData = request.session(TAKE_SURVEY_SESSION_KEY);
-    if (takeSurveyHelperData == undefined) {
+    if (takeSurveyHelperData === undefined) {
         takeSurveyHelperData = {};
     }
     return new TakeSurveyHelper(takeSurveyHelperData);
