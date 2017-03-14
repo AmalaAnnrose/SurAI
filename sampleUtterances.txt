@@ -9,6 +9,7 @@ helpIntent what do you mean
 helpIntent what are you asking about
 helpIntent pardon
 helpIntent what do you refer to
+helpIntent do not understand
 helpIntent do you mean
 helpIntent say again
 helpIntent repeat again
